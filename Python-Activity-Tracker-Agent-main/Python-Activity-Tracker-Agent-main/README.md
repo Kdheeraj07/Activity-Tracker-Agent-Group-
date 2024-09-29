@@ -6,9 +6,7 @@ The Activity Tracker Agent is a Python-based program that runs in the background
 <b> Group Member </b>
 
 <b>Brajendra Singh Pal</b>
-
 </b>Deepesh Mishra</b>
-
 <b>Dheeraj Kumar</b>
 
 
